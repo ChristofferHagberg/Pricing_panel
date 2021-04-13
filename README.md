@@ -1,3 +1,3 @@
-#Pricing Panel
+*Pricing Panel
 
-##WDB Exercise
+**WDB Exercise
